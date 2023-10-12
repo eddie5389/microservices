@@ -1,0 +1,12 @@
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\bin\Debug\net6.0\Play.Inventario.Contracts.deps.json
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\bin\Debug\net6.0\Play.Inventario.Contracts.dll
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\bin\Debug\net6.0\Play.Inventario.Contracts.pdb
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\Play.Inventario.Contracts.csproj.AssemblyReference.cache
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\Play.Inventario.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\Play.Inventario.Contracts.AssemblyInfoInputs.cache
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\Play.Inventario.Contracts.AssemblyInfo.cs
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\Play.Inventario.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\Play.Inventario.Contracts.dll
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\refint\Play.Inventario.Contracts.dll
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\Play.Inventario.Contracts.pdb
+C:\Users\eddie\project\Play.Inventario\src\Play.Inventario.Contracts\obj\Debug\net6.0\ref\Play.Inventario.Contracts.dll

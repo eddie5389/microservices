@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Service\\Play.Inventario.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Contracts\\Play.Inventario.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Contracts\\Play.Inventario.Contracts.csproj",
+        "projectName": "Play.Inventario.Contracts",
+        "projectPath": "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Contracts\\Play.Inventario.Contracts.csproj",
+        "packagesPath": "C:\\Users\\eddie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\eddie\\project\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Service\\Play.Inventario.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Service\\Play.Inventario.Service.csproj",
+        "projectName": "Play.Inventario.Service",
+        "projectPath": "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Service\\Play.Inventario.Service.csproj",
+        "packagesPath": "C:\\Users\\eddie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\eddie\\project\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Contracts\\Play.Inventario.Contracts.csproj": {
+                "projectPath": "C:\\Users\\eddie\\project\\Play.Inventario\\src\\Play.Inventario.Contracts\\Play.Inventario.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Play.Common": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
