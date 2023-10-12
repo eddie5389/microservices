@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\eddie\\project\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\eddie\\project\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "Play.Inventory.Service",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
